@@ -7,4 +7,4 @@ while True:
   sleep(1)
   p5.value(1)
   sleep(1)
-  print("Hello Sapto")
+  print("Hello Saptosss")
