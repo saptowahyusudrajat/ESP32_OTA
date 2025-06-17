@@ -4,7 +4,7 @@ p5 = Pin(5, Pin.OUT)
 
 def loop():
   p5.value(0)
-  sleep(0.1)
+  sleep(2)
   p5.value(1)
-  sleep(0.1)
-  print("blink CEPAT")
+  sleep(2)
+  print("blink lambat")
