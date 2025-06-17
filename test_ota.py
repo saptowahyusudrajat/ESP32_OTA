@@ -7,4 +7,4 @@ def loop():
   sleep(1)
   p5.value(1)
   sleep(1)
-  print("Hello sudrajat")
+  print("Hello farizzzz")
