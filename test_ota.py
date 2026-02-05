@@ -7,4 +7,4 @@ def loop():
   sleep(1)
   p2.value(1)
   sleep(1)
-  print("VERSI 27")
+  print("VERSI 28")
